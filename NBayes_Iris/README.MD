@@ -4,6 +4,6 @@
 
 运行结果：
 
-![image](https://github.com/Chenghui123/DateMining_Homework/NBayes_Iris/结果.png)
+![image](https://github.com/Chenghui123/DataMining_Homework/blob/master/NBayes_Iris/结果.png)
 
 参考文章：朴素贝叶斯算法【变量连续与间断的讨论】https://blog.csdn.net/TaoTaoFu/article/details/52807026
