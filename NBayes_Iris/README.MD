@@ -2,6 +2,8 @@
 ------------
 使用鸢尾花数据集，由于数据集是连续型数据，因此，假设各个属性是成正态分布的，采用密度函数进行概率计算。
 
+代码写的不怎么简洁，但是把过程思路基本写出来了。
+
 运行结果：
 
 ![image](https://github.com/Chenghui123/DataMining_Homework/blob/master/NBayes_Iris/结果.png)
