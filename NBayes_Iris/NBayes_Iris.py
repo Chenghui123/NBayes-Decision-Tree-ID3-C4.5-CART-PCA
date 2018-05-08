@@ -65,9 +65,9 @@ def meanOfData(irisData):                       # 计算四种属性值的平均
 	# 计算方差
 	for item in irisData:
 		dataSum_11 += (float(item[0])-dataMean_1)**2
-		dataSum_22 += (float(item[0])-dataMean_2)**2
-		dataSum_33 += (float(item[0])-dataMean_3)**2
-		dataSum_44 += (float(item[0])-dataMean_4)**2
+		dataSum_22 += (float(item[1])-dataMean_2)**2
+		dataSum_33 += (float(item[2])-dataMean_3)**2
+		dataSum_44 += (float(item[3])-dataMean_4)**2
 	dataVariance_1 = dataSum_11/34
 	dataVariance_2 = dataSum_22/34
 	dataVariance_3 = dataSum_33/34
