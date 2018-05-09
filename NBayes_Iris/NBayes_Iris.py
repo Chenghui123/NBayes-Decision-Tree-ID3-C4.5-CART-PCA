@@ -35,8 +35,8 @@ def cutData(irisAttribute, irisCategory):        # 切分数据，将每种花�
 		testDataSet.append(irisAttribute[i+85][:])
 		testCategory.append(irisCategory[i+85])
 	for i in range(0,15):
-		testDataSet.append(irisAttribute[i+115][:])
-		testCategory.append(irisCategory[i+115])
+		testDataSet.append(irisAttribute[i+135][:])
+		testCategory.append(irisCategory[i+135])
 
 	return setosa_Data, versicolor_Data, virginica_Data, testDataSet, testCategory
 
